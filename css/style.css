@@ -10,3 +10,8 @@
 *::after {
   box-sizing: border-box;
 }
+
+html,
+body {
+  background: rgb(157, 136, 235);
+}
