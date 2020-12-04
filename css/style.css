@@ -37,4 +37,15 @@ body {
   height: 3rem;
   width: 1px;
   background-color: antiquewhite;
+  margin-left: 1rem;
+}
+
+.text {
+  color: #fff;
+}
+
+.icon {
+  display: flex;
+  place-items: center;
+  justify-content: space-between;
 }
