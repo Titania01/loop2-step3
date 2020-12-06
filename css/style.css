@@ -16,10 +16,14 @@ body {
   background: rgb(157, 136, 235);
 }
 
-.contain .photo {
+.container {
+  margin: 8rem auto;
+  width: 50vw;
+}
+
+.photo {
   height: 6rem;
   width: 25rem;
-  margin: 8rem auto;
   background-image: linear-gradient(45deg, #b77dd8, #ad7bd4);
 }
 
