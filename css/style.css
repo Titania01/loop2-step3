@@ -25,7 +25,7 @@ body {
   height: 8rem;
   width: 25rem;
   background-image: linear-gradient(75deg, #b77dd8, #ad7bd4);
-  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 0 10px 10px rgba(0, 0, 0, 0.1);
   border-top-right-radius: 5px;
   border-top-left-radius: 5px;
 }
@@ -33,7 +33,7 @@ body {
 .image {
   height: 2rem;
   width: 2rem;
-  background: antiquewhite;
+  background: white;
   border-radius: 50%;
   display: flex;
   place-content: center;
@@ -43,7 +43,7 @@ body {
 .line {
   height: 4rem;
   width: 3px;
-  background-color: antiquewhite;
+  background-color: white;
   margin-left: 3rem;
 }
 
@@ -70,7 +70,7 @@ body {
 .line2 {
   height: 2.5rem;
   width: 3px;
-  background-color: antiquewhite;
+  background-color: white;
   margin-left: 3rem;
   opacity: 0.7;
 }
@@ -115,7 +115,7 @@ body {
   width: 25rem;
   height: 6rem;
   background-image: linear-gradient(75deg, #b77dd8, #ad7bd4);
-  box-shadow: 0 5px 5px 5px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 10px 10px 10px rgba(0, 0, 0, 0.1);
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
 }
@@ -139,4 +139,8 @@ body {
   font-size: 18px;
   font-weight: 600;
   margin-left: 1rem;
+}
+
+.pic {
+  width: 16px;
 }
