@@ -54,6 +54,10 @@ body {
   margin-left: -12rem;
 }
 
+.text:hover {
+  cursor: pointer;
+}
+
 .icon {
   display: flex;
   place-items: center;
