@@ -58,6 +58,10 @@ body {
   cursor: pointer;
 }
 
+.text2:hover {
+  cursor: pointer;
+}
+
 .icon {
   display: flex;
   place-items: center;
