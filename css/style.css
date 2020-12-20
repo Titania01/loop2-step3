@@ -62,6 +62,10 @@ body {
   cursor: pointer;
 }
 
+.pic:hover {
+  cursor: pointer;
+}
+
 .icon {
   display: flex;
   place-items: center;
