@@ -40,6 +40,10 @@ body {
   place-items: center;
 }
 
+.arrow:hover {
+  cursor: pointer;
+}
+
 .line {
   height: 4rem;
   width: 3px;
